@@ -1,0 +1,54 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+h1{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+div {
+  background-color: #111;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 5px;
+  height: 175px;
+}
+
+#carro {
+  margin-bottom: 20px;
+
+}
+div h2 {
+  padding-top: 20px;
+  color: #fff;
+  margin-bottom: 25px;
+  margin-left: 25px; 
+}
+
+div p {
+  color: #b2b2b2;
+  margin-bottom: 25px;
+  margin-left: 25px;
+}
+
+div button {
+  margin-bottom: 25px;
+  margin-left: 25px;
+  color: #332200;
+  background-color: #febe01;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+strong {
+  color: #febe01;
+  font-weight: normal;
+}
